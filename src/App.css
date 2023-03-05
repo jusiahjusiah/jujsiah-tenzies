@@ -78,7 +78,8 @@ main p {
 .you-won {
   display: block;
   color: #3aa766;
-  margin-bottom: 10px;
+  padding-top: 10px;
+
 }
 
 .high-score {
