@@ -82,5 +82,6 @@ main p {
 }
 
 .high-score {
+  display: block;
   color: red;
 }
